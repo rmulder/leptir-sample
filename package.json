@@ -62,7 +62,7 @@
     "jquery": "./public/bower_components/jquery/jquery.min.js",
     "bootstrap": "./public/bower_components/bootstrap/dist/js/bootstrap.min.js",
     "moment": "./public/bower_components/moment/min/moment.min.js",
-    "underscore": "./public/bower_components/underscore/underscore-min.js",
+    "lodash": "./public/bower_components/lodash/lodash.min.js",
     "angular-bootstrap": "./public/bower_components/angular-bootstrap/ui-bootstrap.min.js",
     "angular-bootstrap-tpls": "./public/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js",
     "angular-ui-router": "./public/bower_components/angular-ui-router/release/angular-ui-router.min.js",
@@ -81,8 +81,8 @@
     "moment": {
       "exports": "moment"
     },
-    "underscore": {
-      "exports": "underscore"
+    "lodash": {
+      "exports": "lodash"
     },
     "angular-bootstrap": {
       "depends": [
