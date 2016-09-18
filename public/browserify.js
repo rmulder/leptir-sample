@@ -8,7 +8,7 @@ require('angular-resource'); // jshint ignore:line
 require('jquery'); // jshint ignore:line
 require('bootstrap'); // jshint ignore:line
 require('moment'); // jshint ignore:line
-require('underscore'); // jshint ignore:line
+require('lodash'); // jshint ignore:line
 require('angular-bootstrap'); // jshint ignore:line
 require('angular-bootstrap-tpls'); // jshint ignore:line
 require('angular-ui-router'); // jshint ignore:line
